@@ -1,0 +1,20 @@
+{
+  "prefix": "!",
+  "adminRole": "Admin",
+  "moderatorRole": "Moderator",
+  "memberRole": "Member",
+  "goodPostsMinimum": 7,
+  "unverifiedGracePeriodMinutes": 10,
+  "controlTaskEveryMinutes": 60,
+  "callPostsTaskEveryMinutes": 1440,
+  "hourOfCallPosts": 12,
+  "weekdayOfKickingCallPosts": 5,
+  "callPostsChannelName": "call-posts",
+  "logChannelName": "log",
+  "btcWalletImagePath": "path/to/wallet/image.png",
+  "verifiedCategories": ["verified"],
+  "unverifiedChannels": ["unverified"],
+  "rulesChannelName": "rules",
+  "memberRoleNames": ["Member"],
+  "goodEmailRegex": "^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$"
+}
